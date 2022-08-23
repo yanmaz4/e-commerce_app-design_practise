@@ -46,7 +46,7 @@ export const categories = [
 export const popularProducts = [
     {
         id: 1,
-        img: "https://i.pinimg.com/564x/f3/33/76/f33376df4c8bd5f9b183ed77bc03eab3.jpg",
+        img: "https://th.bing.com/th/id/R.025dda57929f50d509aea3ba175581d6?rik=2xthelbLEhSt%2bQ&riu=http%3a%2f%2fmedia4.blue-tomato.com%2fis%2fimage%2fbluetomato%2f302390360_front.jpg-8Jk26NCNbWWUcyY56W6WPnsJ0KE%2fRip%2bCurl%2bAggrosections%2b17%2bBoardshorts%2bJungen.jpg%3f%24b1%24&ehk=GO0bStIIeVc6DFZiUU9yZCWIFaDwDURYTo45lrMj%2bOc%3d&risl=&pid=ImgRaw&r=0",
       
         
     },
@@ -59,7 +59,7 @@ export const popularProducts = [
     },
     {
         id: 3,
-        img: "https://th.bing.com/th/id/OIP.l3kiNyclhUPjgqzY5s652wHaK9?pid=ImgDet&rs=1",
+        img: "https://i5.walmartimages.com/asr/7d25a0d7-c77b-468e-8af5-34f563730c00_1.b5e11aa83377220ebb397188c6fd92de.jpeg",
       
       
     },
@@ -77,8 +77,32 @@ export const popularProducts = [
     },
     {
         id: 6,
-        img: "https://th.bing.com/th/id/OIP.JHD1FF4M8e7BagKn62MQ8wHaHa?pid=ImgDet&rs=1",
+        img: "https://th.bing.com/th/id/OIP.E0kQbmuX615T47e3uLsYlQHaLH?pid=ImgDet&rs=1",
       
       
     },
+    {
+        id: 7,
+        img: "https://i.pinimg.com/originals/c8/5b/4d/c85b4d3c2b39f7b5dafa7f0ede967ffe.png",
+      
+      
+    },
+    {
+        id: 8,
+        img: "https://i.pinimg.com/564x/f3/33/76/f33376df4c8bd5f9b183ed77bc03eab3.jpg",
+      
+      
+    },
+    {
+        id: 9,
+        img: "https://i5.walmartimages.com/asr/d8813493-3e6f-461b-beb3-6c881aec8214.02749a410f9df698d97f906888453510.jpeg",
+      
+      
+    },
+    {
+        id: 9,
+        img: "https://www.icing.com/dw/image/v2/BBTK_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfe066dc0/images/icing/hi-res/48762_2.jpg?sw=2000&sh=2000&sm=fit", 
+    },
+  
+   
 ]
