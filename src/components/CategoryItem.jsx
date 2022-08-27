@@ -2,7 +2,7 @@
 import styled from "styled-components";
 
 
-const Container = styled.div`flex:1;margin:3;height:85vh;position:relative; `
+const Container = styled.div`flex:1;margin:3;height:95vh;position:relative; `
 const Image = styled.img`width:90%;height:90%; object-fit:cover; `
 const Info = styled.div`position:absolute; width:100%;height:100%; top:0;left:0;
 display:flex;flex-direction:column; align-items: center;justify-content: center;`
