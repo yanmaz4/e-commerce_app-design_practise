@@ -103,13 +103,13 @@ export const popularProducts = [
         id: 10,
         img: "https://www.icing.com/dw/image/v2/BBTK_PRD/on/demandware.static/-/Sites-master-catalog/default/dwfe066dc0/images/icing/hi-res/48762_2.jpg?sw=2000&sh=2000&sm=fit", 
     },
-    {
-        id: 11,
-        img: "https://th.bing.com/th/id/OIP.4-_V2p8lCFeaQ4nlFaXQ9AHaGZ?pid=ImgDet&rs=1", 
-    },
+    // {
+    //     id: 11,
+    //     img: "https://th.bing.com/th/id/OIP.4-_V2p8lCFeaQ4nlFaXQ9AHaGZ?pid=ImgDet&rs=1", 
+    // },
   
-    {
-        id: 12,
-        img: "https://th.bing.com/th/id/OIP.9Q-9RJZtRsnek6o_MjRjrgHaFM?pid=ImgDet&rs=1", 
-    },
+    // {
+    //     id: 12,
+    //     img: "https://th.bing.com/th/id/OIP.9Q-9RJZtRsnek6o_MjRjrgHaFM?pid=ImgDet&rs=1", 
+    // },
 ]
